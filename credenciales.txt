@@ -1,0 +1,18 @@
+username: Veterinaria
+pass: likeup2oo
+correo: dominiosdeprueba@gmail.com
+
+
+
+Hostinger:
+
+Acceso FTP:
+
+servidor: 31.220.16.22
+usuario: u815751506
+puerto: 21
+contraseña: likeup2oo
+ 
+
+sitio web:  petslove-likeup.esy.es
+
